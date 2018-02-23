@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Jadwal Kuliah</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="senin">SENIN</string>
+    <string name="manaj_layanan_sistem_informasi">Manaj.Layanan Sistem Informasi#</string>
+    <string name="_13_30_14_30">13:30 - 14:30</string>
+    <string name="j138">J138</string>
+    <string name="_10_30_11_30">10:30 - 11:30</string>
+    <string name="struktur_organisasi_data_2"><![CDATA[Struktur & Organisasi Data 2*]]></string>
+    <string name="statiska_2">Statiska 2</string>
+    <string name="j164">J164</string>
+    <string name="selasa">SELASA</string>
+
+    <string name="_07_30_10_30">07:30 - 10:30</string>
+    <string name="manajemen_sim_2"><![CDATA[Manajemen & SIM 2*]]></string>
+    <string name="j1614">J1614</string>
+    <string name="bahasa_indonesia_1">Bahasa Indonesia 1</string>
+    <string name="_07_30_09_30">07:30 - 09:30</string>
+    <string name="_12_30_13_30">12:30 - 13:30</string>
+    <string name="pengantar_akuntansi_keuangan_2">Pengantar Akuntansi Keuangan 2</string>
+    <string name="j1524">J1524</string>
+    <string name="kamis">KAMIS</string>
+    <string name="sistem_operasi">Sistem Operasi**</string>
+    <string name="so">11:30 - 14:30</string>
+    <string name="matematika_sistem_informasi_2">Matematika Sistem Informasi 2</string>
+    <string name="_09_30_10_30">09:30 - 10:30</string>
+    <string name="asd">14:30 - 16:30</string>
+    <string name="jumat">JUMAT</string>
+    <string name="qwe">Teknik Pemrog.Terstruktur 2**</string>
+
+    <string name="_09_30_11_30">09:30 - 11:30</string>
+    <string name="matematika_lanjut">Matematika Lanjut</string>
+    <string name="j312">J312</string>
+    <string name="selasa_pertama">07:30 - 09:30</string>
+    <string name="selasa_kedua">09:30 - 11:30</string>
+    <string name="selasa_ketiga">12:30 - 14:30</string>
+    <string name="senin_kedua">10:30 - 12:30</string>
+    <string name="senin_ketiga">13:30 - 15:30</string>
+
+</resources>
