@@ -1,4 +1,4 @@
-# Jadwal-Pelajaran(Fragment
+# Jadwal-Pelajaran(Fragment)
 pada source code ini kita akan belajar bagaimana cara menggunakan 4 fragment dalam 1 activity
 
 ## PREVIEW
